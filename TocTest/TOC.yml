@@ -1,0 +1,11 @@
+- name: IndexYML
+  href: index.yml
+- name : IndexMD
+  href: index.md
+- name: welcome
+  expanded: true
+  items:
+  - name: WelcomeMd
+    href: welcome.md
+  - name:NET Microservices
+    href: visual-basic/language-reference/error-messages/operator-declaration-must-be-one-of.md
